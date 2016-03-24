@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\09PlayWithIntDoubleAndString\bin\Debug\09PlayWithIntDoubleAndString.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\09PlayWithIntDoubleAndString\bin\Debug\09PlayWithIntDoubleAndString.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\09PlayWithIntDoubleAndString\bin\Debug\09PlayWithIntDoubleAndString.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\09PlayWithIntDoubleAndString\obj\Debug\09PlayWithIntDoubleAndString.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\09PlayWithIntDoubleAndString\obj\Debug\09PlayWithIntDoubleAndString.pdb

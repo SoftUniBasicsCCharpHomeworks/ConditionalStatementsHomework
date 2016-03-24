@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\06BiggestofFiveNumbers\bin\Debug\06BiggestofFiveNumbers.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\06BiggestofFiveNumbers\bin\Debug\06BiggestofFiveNumbers.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\06BiggestofFiveNumbers\bin\Debug\06BiggestofFiveNumbers.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\06BiggestofFiveNumbers\obj\Debug\06BiggestofFiveNumbers.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\06BiggestofFiveNumbers\obj\Debug\06BiggestofFiveNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\16EncryptTheMessages\bin\Debug\16EncryptTheMessages.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\16EncryptTheMessages\bin\Debug\16EncryptTheMessages.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\16EncryptTheMessages\bin\Debug\16EncryptTheMessages.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\16EncryptTheMessages\obj\Debug\16EncryptTheMessages.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\16EncryptTheMessages\obj\Debug\16EncryptTheMessages.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\16EncryptTheMessages\obj\Debug\16EncryptTheMessages.pdb

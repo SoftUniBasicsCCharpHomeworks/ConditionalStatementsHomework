@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\15Sunlight\bin\Debug\15Sunlight.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\15Sunlight\bin\Debug\15Sunlight.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\15Sunlight\bin\Debug\15Sunlight.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\15Sunlight\obj\Debug\15Sunlight.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\15Sunlight\obj\Debug\15Sunlight.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\15Sunlight\obj\Debug\15Sunlight.pdb

@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\08DigitAsWord\bin\Debug\08DigitAsWord.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\08DigitAsWord\bin\Debug\08DigitAsWord.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\08DigitAsWord\bin\Debug\08DigitAsWord.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\08DigitAsWord\obj\Debug\08DigitAsWord.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\08DigitAsWord\obj\Debug\08DigitAsWord.pdb

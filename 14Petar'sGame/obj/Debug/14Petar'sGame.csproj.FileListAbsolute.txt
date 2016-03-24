@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\14Petar'sGame\bin\Debug\14Petar'sGame.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\14Petar'sGame\bin\Debug\14Petar'sGame.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\14Petar'sGame\bin\Debug\14Petar'sGame.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\14Petar'sGame\obj\Debug\14Petar'sGame.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\14Petar'sGame\obj\Debug\14Petar'sGame.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\14Petar'sGame\obj\Debug\14Petar'sGame.pdb

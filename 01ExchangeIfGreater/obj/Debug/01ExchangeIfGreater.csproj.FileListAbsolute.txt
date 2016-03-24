@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConditionalStatementsHomework\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.pdb
